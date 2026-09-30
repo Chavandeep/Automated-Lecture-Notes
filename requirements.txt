@@ -1,0 +1,4 @@
+anthropic>=0.49
+opencv-python>=4.9
+numpy>=1.26
+fpdf2>=2.7
